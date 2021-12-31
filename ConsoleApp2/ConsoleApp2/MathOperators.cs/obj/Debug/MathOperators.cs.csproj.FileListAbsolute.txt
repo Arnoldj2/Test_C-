@@ -1,0 +1,7 @@
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\bin\Debug\MathOperators.cs.exe.config
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\bin\Debug\MathOperators.cs.exe
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\bin\Debug\MathOperators.cs.pdb
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\obj\Debug\MathOperators.cs.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\obj\Debug\MathOperators.cs.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\obj\Debug\MathOperators.cs.exe
+C:\Users\jonah\OneDrive\Desktop\C#_Unity\MathOperators.cs\MathOperators.cs\obj\Debug\MathOperators.cs.pdb
